@@ -6253,7 +6253,7 @@ button.close {
   }
 }
 
-@media (min-width: 480px) and (max-width: 990px) {
+@media (min-width: 500px) and (max-width: 990px) {
   .info li .second-block {
     display: inline-flex !important;
   }
